@@ -9,3 +9,7 @@
 - React
 - Typescript
 - NodeJs
+
+## Your stuff it's broken #!#$#
+
+You can contact me my Twitter [@Brecii](https://twitter.com/Brecii)
