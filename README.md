@@ -1,8 +1,4 @@
-# Hello and, again, welcome
-
-You probably found this page from either a google search or from one of my projects or contribution, in any cases, welcome!
-
-I'm Breci, an interactive developer
+![Breci](https://pbs.twimg.com/profile_banners/275944987/1590091238/1500x500)
 
 ## What you can find here
 - Tools to build Twitch extensions
