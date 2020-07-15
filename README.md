@@ -1,5 +1,4 @@
 ![Breci](/breci.png)
-_____________________
 
 ## Open source
 
