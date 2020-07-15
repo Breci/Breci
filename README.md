@@ -1,4 +1,4 @@
-![Breci](/breci.png)
+![Breci](https://github.com/Breci/Breci/blob/master/breci.png)
 
 ## Open source
 
