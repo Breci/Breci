@@ -4,8 +4,8 @@
 
 I maintain multiple libs for Twitch extension
 
-- twitchext-react / twitchext-vuex / twitchext-vuex
-- VueJs + Express Twitch Extension boilerplate
+- [TwitchExt-React](https://github.com/Breci/twitch-ext-react) / [TwitchExt-Vuex](https://github.com/Breci/twitchext-vuex) / TwitchExt-Vuex
+- [VueJs + Express Twitch Extension boilerplate](https://github.com/Breci/Twitch_extension_Vue_Express_Boilerplate)
 
 ## Blog articles
 
